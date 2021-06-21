@@ -20,6 +20,7 @@ Contributors submitting Pull Requests (PRs) will require a `schema.sql` file wit
 
 ## Additional Documentation
 * [/docs](/docs)
+* [getting started with docker](https://docs.docker.com/get-started/)
 
 ## License
 The AGAGD is licensed under the MIT License which can be found in [LICENSE](/LICENSEE).
